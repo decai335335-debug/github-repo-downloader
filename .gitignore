@@ -1,0 +1,12 @@
+# Downloads & outputs
+downloads/
+download_report_*.json
+repos_remaining.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp files
+_write_*.py
